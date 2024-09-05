@@ -38,7 +38,7 @@
     "jest-util": "workspace:*",
     "jest-validate": "workspace:*",
     "jest-watcher": "workspace:*",
-    "micromatch": "^4.0.4",
+    "micromatch": "^4.0.6",
     "pretty-format": "workspace:*",
     "slash": "^3.0.0",
     "strip-ansi": "^6.0.0"
