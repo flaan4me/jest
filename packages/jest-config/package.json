@@ -48,7 +48,7 @@
     "jest-runner": "workspace:*",
     "jest-util": "workspace:*",
     "jest-validate": "workspace:*",
-    "micromatch": "^4.0.4",
+    "micromatch": "^4.0.6",
     "parse-json": "^5.2.0",
     "pretty-format": "workspace:*",
     "slash": "^3.0.0",
