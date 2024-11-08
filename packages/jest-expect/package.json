@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "expect": "workspace:*",
-    "jest-snapshot": "workspace:*"
+    "jest-snapshot": "0.0.0"
   },
   "devDependencies": {
     "@tsd/typescript": "^5.0.4",
