@@ -25,7 +25,7 @@
     "@babel/plugin-syntax-typescript": "^7.7.2",
     "@babel/types": "^7.3.3",
     "@jest/expect-utils": "workspace:*",
-    "@jest/transform": "workspace:*",
+    "@jest/transform": "24.3.0",
     "@jest/types": "workspace:*",
     "babel-preset-current-node-syntax": "^1.0.0",
     "chalk": "^4.0.0",
