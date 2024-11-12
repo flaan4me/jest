@@ -14,7 +14,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/globals": "workspace:*",
+    "@jest/globals": "25.5.0",
     "@jest/types": "workspace:*",
     "@types/node": "*",
     "ansi-regex": "^5.0.1",
