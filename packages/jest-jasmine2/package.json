@@ -19,7 +19,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/environment": "workspace:*",
+    "@jest/environment": "30.0.0",
     "@jest/expect": "workspace:*",
     "@jest/source-map": "workspace:*",
     "@jest/test-result": "workspace:*",
