@@ -15,7 +15,7 @@
     "./bin/jest": "./bin/jest.js"
   },
   "dependencies": {
-    "@jest/core": "workspace:*",
+    "@jest/core": "30.0.0",
     "@jest/test-result": "workspace:*",
     "@jest/types": "workspace:*",
     "chalk": "^4.0.0",
