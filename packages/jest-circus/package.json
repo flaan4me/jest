@@ -20,7 +20,7 @@
     "./runner": "./build/runner.js"
   },
   "dependencies": {
-    "@jest/environment": "workspace:*",
+    "@jest/environment": "30.0.0",
     "@jest/expect": "workspace:*",
     "@jest/test-result": "workspace:*",
     "@jest/types": "workspace:*",
