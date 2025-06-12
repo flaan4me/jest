@@ -22,7 +22,7 @@
     "@jest/console": "workspace:*",
     "@jest/environment": "workspace:*",
     "@jest/test-result": "workspace:*",
-    "@jest/transform": "workspace:*",
+    "@jest/transform": "30.0.0",
     "@jest/types": "workspace:*",
     "@types/node": "*",
     "chalk": "^4.0.0",
