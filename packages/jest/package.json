@@ -15,7 +15,7 @@
     "./bin/jest": "./bin/jest.js"
   },
   "dependencies": {
-    "@jest/core": "workspace:*",
+    "@jest/core": "27.0.0",
     "@jest/types": "workspace:*",
     "import-local": "^3.0.2",
     "jest-cli": "workspace:*"
